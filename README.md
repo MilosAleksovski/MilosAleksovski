@@ -5,13 +5,14 @@ Hi, my name is Milos 👋<br><br>
 Welcome to my GitHub profile! 🎉
 <br><br>
 I'm a software engineer student. I'm always striving to make things faster, simpler, and more user and developer-friendly.
-<br><br><br><br><br>
+<br><br>
 
 
 
 
 You can see my projects <br>
-🠋    🠋     🠋     🠋   🠋
+:arrow_down::arrow_down::arrow_down::arrow_down::arrow_down::arrow_down::arrow_down:
+
 
 <!--
 **MilosAleksovski/MilosAleksovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
