@@ -1,15 +1,16 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/milos-aleksovski-22961323a/)
-Hi, my name is Milos 👋
+<br>
+Hi, my name is Milos 👋<br><br>
 Welcome to my GitHub profile! 🎉
-
+<br><br>
 I'm a software engineer student. I'm always striving to make things faster, simpler, and more user and developer-friendly.
+<br><br><br><br><br>
 
 
 
 
-
-You can see my projects 
+You can see my projects <br>
 🠋    🠋     🠋     🠋   🠋
 
 <!--
