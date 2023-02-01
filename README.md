@@ -10,7 +10,7 @@ I'm a software engineer student. I'm always striving to make things faster, simp
 
 
 
-Down below you can see some of my projects <br><br>
+Down below you can see some of my student projects <br><br>
 :arrow_down:  :arrow_down:  :arrow_down:   :arrow_down:
 
 
